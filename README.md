@@ -7,3 +7,5 @@ Easiest way to send "I miss you" message during meeting, using Amazon IoT Button
 | getToken.js | retetive a session token from WeChat |
 | sendMsg.js | compose message body |
 | handler.js | call getToken and sendMsg |
+
+See post at https://medium.com/@unknowngas/the-i-miss-you-button-271d492abbc
